@@ -1,5 +1,6 @@
 ## Hi there 👋
-Hi
+이보현
+컴퓨터학부 소프트웨어융합전공 2학년
 <!--
 **leebh8150/leebh8150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
